@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6473783550562365776
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8670533908703646628, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: SpriteRenderers.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8670533908703646628, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: SpriteRenderers.Array.data[1]
+      value: 
+      objectReference: {fileID: 1151210956282392967}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 560596607347383076, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2413693668123286665, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_Name
+      value: PlatformCommonGroup2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3881017371651537997, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300018, guid: 20da7e56cbb26b3498b25fb61fa9a7ff,
+        type: 3}
+    - target: {fileID: 4350386854752202628, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4350386854752202628, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: 0.43123627
+      objectReference: {fileID: 0}
+    - target: {fileID: 4350386854752202628, guid: f59ff234c3a38f142ba9216143d46837,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.57886195
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f59ff234c3a38f142ba9216143d46837, type: 3}
+--- !u!212 &1151210956282392967 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 6210063204798070999, guid: f59ff234c3a38f142ba9216143d46837,
+    type: 3}
+  m_PrefabInstance: {fileID: 6473783550562365776}
+  m_PrefabAsset: {fileID: 0}
